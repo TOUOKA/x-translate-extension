@@ -46,6 +46,7 @@ const targetUser = "@elonmusk"; // ← change here
 
 
 ## 🌐 API
+
 This extension uses LibreTranslate – a free, open-source translation API.
 
 License: MIT
