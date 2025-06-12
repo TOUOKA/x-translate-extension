@@ -1,4 +1,3 @@
----
 
 ## 🌐 API
 This extension uses LibreTranslate – a free, open-source translation API.
