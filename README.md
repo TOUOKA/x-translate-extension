@@ -45,6 +45,7 @@ To change the target user (e.g., from `@elonmusk` to another), edit the followin
 const targetUser = "@◯◯◯◯"; // ← change here
 
 ---
+
 ## 🌐 API
 This extension uses LibreTranslate – a free, open-source translation API.
 
@@ -57,6 +58,7 @@ You can self-host if needed for stability
 この拡張はLibreTranslate APIを使用しています（MITライセンス・無料・APIキー不要）。
 
 ---
+
 ## 🔐 Privacy / プライバシー
 No data is collected or stored.
 
@@ -67,6 +69,7 @@ All translation is done via API requests from your browser only.
 翻訳はすべて、あなたのブラウザからAPIに直接送信されます。
 
 ---
+
 ## 📄 License
 MIT License © 2025 [Your Name or GitHub Handle]
 
