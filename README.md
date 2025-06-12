@@ -72,17 +72,19 @@ All translation is done via API requests from your browser only.
 ---
 
 ## 📄 License
+
 MIT License © 2025 [Your Name or GitHub Handle]
 
 ---  
 ## 💡 Future Plans / 今後の予定
+
 Allow adding multiple users
 
 Support other translation directions (e.g., Japanese → English)
 
 Options page for user settings
 
-
+---  
 
 
 
