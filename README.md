@@ -44,6 +44,7 @@ To change the target user (e.g., from `@elonmusk` to another), edit the followin
 ```js
 const targetUser = "@elonmusk"; // ← change here
 
+---
 
 ## 🌐 API
 
