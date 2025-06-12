@@ -1,46 +1,42 @@
-# X Auto Translator 🚀
+---
 
-A Chrome Extension that automatically translates English posts from a specific user on X (formerly Twitter) into Japanese.
+## 🌐 API
+This extension uses LibreTranslate – a free, open-source translation API.
 
-特定のX（旧Twitter）ユーザーの英語投稿を自動で日本語翻訳するChrome拡張機能です。
+License: MIT
+
+No API key required (limited rate)
+
+You can self-host if needed for stability
+
+この拡張はLibreTranslate APIを使用しています（MITライセンス・無料・APIキー不要）。
 
 ---
 
-## 🧩 Features / 機能
+## 🔐 Privacy / プライバシー
+No data is collected or stored.
 
-- Automatically detects posts from a specific user (e.g. @elonmusk)
-- Translates English posts to Japanese using LibreTranslate API
-- Toggle ON/OFF via the extension popup
-- No need to click "Translate" – translations appear automatically
-- Lightweight and privacy-friendly
+All translation is done via API requests from your browser only.
 
-特長：
-- 特定ユーザーの投稿だけを対象
-- 英語投稿をLibreTranslate APIで日本語に翻訳
-- 拡張機能のON/OFFを切替可能
-- ボタン不要、翻訳結果は自動表示
-- 軽量でプライバシーにも配慮
+ユーザーデータの収集は一切行いません。
+
+翻訳はすべて、あなたのブラウザからAPIに直接送信されます。
 
 ---
 
-## 📦 Installation / インストール方法
+## 📄 License
+MIT License © 2025 [Your Name or GitHub Handle]
 
-1. Clone or download this repository
-2. Open `chrome://extensions/` in Chrome
-3. Enable "Developer mode"
-4. Click "Load unpacked" and select the folder
+---  
+## 💡 Future Plans / 今後の予定
+Allow adding multiple users
 
-1. このリポジトリをクローンまたはZIPでダウンロード  
-2. Chromeで `chrome://extensions/` を開く  
-3. 「デベロッパーモード」をON  
-4. 「パッケージ化されていない拡張機能を読み込む」をクリックし、フォルダを選択
+Support other translation directions (e.g., Japanese → English)
 
----
+Options page for user settings
 
-## 🔧 Configuration / 設定
 
-To change the target user (e.g., from `@elonmusk` to another), edit the following line in `content.js`:
 
-```js
-const targetUser = "@◯◯◯◯"; // ← change here
+
+
 
