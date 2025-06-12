@@ -39,10 +39,10 @@ A Chrome Extension that automatically translates English posts from a specific u
 
 ## 🔧 Configuration / 設定
 
-To change the target user (e.g., from `@elonmusk` to another), edit the following line in `content.js`:
+To change the target user (e.g., from `@◯◯◯◯` to another), edit the following line in `content.js`:
 
 ```js
-const targetUser = "@elonmusk"; // ← change here
+const targetUser = "@◯◯◯◯"; 
 
 ---
 
