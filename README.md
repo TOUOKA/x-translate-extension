@@ -41,7 +41,6 @@ A Chrome Extension that automatically translates English posts from a specific u
 
 To change the target user (e.g., from `@◯◯◯◯` to another), edit the following line in `content.js`:
 
-```js
 const targetUser = "@◯◯◯◯"; 
 
 ---
@@ -85,6 +84,7 @@ Support other translation directions (e.g., Japanese → English)
 Options page for user settings
 
 ---  
+
 
 
 
